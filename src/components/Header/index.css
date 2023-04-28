@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.nav-page {
+  display: flex;
+  justify-content: center;
+}
+.nav-menu {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  gap: 15px;
+}
+.nav-link {
+  text-decoration: underline;
+}
